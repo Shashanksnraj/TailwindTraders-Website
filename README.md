@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/MSAzureDevOpsWorkshop/TailwindTraders/_apis/build/status/Shashanksnraj.TailwindTraders-Website?branchName=master)](https://dev.azure.com/MSAzureDevOpsWorkshop/TailwindTraders/_build/latest?definitionId=3&branchName=master)
+
 # Tailwind Traders Website
 
 ![Tailwind Traders Website](Documents/Images/Website.png)
